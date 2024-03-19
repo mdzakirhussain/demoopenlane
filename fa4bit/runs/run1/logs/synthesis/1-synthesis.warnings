@@ -1,0 +1,8 @@
+/home/codespace/OpenLane/designs/fa4bit/src/fa4bit.v:6: Warning: Identifier `\c1' is implicitly declared.
+/home/codespace/OpenLane/designs/fa4bit/src/fa4bit.v:7: Warning: Identifier `\c2' is implicitly declared.
+/home/codespace/OpenLane/designs/fa4bit/src/fa4bit.v:8: Warning: Identifier `\c3' is implicitly declared.
+/home/codespace/OpenLane/designs/fa4bit/src/fa1bit.v:9: Warning: Identifier `\s1' is implicitly declared.
+/home/codespace/OpenLane/designs/fa4bit/src/fa1bit.v:9: Warning: Identifier `\c1' is implicitly declared.
+/home/codespace/OpenLane/designs/fa4bit/src/fa1bit.v:10: Warning: Identifier `\c2' is implicitly declared.
+ABC: Warning: Detected 2 multi-output gates (for example, "sky130_fd_sc_hd__fa_1").
+Warnings: 4 unique messages, 6 total

@@ -1,0 +1,27 @@
+
+66. Printing statistics.
+
+=== fa4bit ===
+
+   Number of wires:                 21
+   Number of wire bits:             30
+   Number of public wires:           8
+   Number of public wire bits:      17
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 22
+     sky130_fd_sc_hd__a21boi_2       1
+     sky130_fd_sc_hd__a31o_2         1
+     sky130_fd_sc_hd__and2_2         3
+     sky130_fd_sc_hd__buf_1          1
+     sky130_fd_sc_hd__buf_2          4
+     sky130_fd_sc_hd__nand2_2        3
+     sky130_fd_sc_hd__nor2_2         2
+     sky130_fd_sc_hd__o21bai_2       1
+     sky130_fd_sc_hd__or2_2          2
+     sky130_fd_sc_hd__xnor2_2        3
+     sky130_fd_sc_hd__xor2_2         1
+
+   Chip area for module '\fa4bit': 186.428800
+

@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 14420 16564
+string GDS_END 270610
+string GDS_FILE /home/codespace/OpenLane/designs/fa4bit/runs/run1/results/signoff/fa4bit.magic.gds
+string GDS_START 83790
+<< end >>

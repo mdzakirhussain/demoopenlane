@@ -1,0 +1,22 @@
+
+58. Printing statistics.
+
+=== fa4bit ===
+
+   Number of wires:                 20
+   Number of wire bits:             29
+   Number of public wires:           8
+   Number of public wire bits:      17
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 17
+     $_ANDNOT_                       3
+     $_AND_                          2
+     $_NAND_                         2
+     $_NOR_                          1
+     $_ORNOT_                        1
+     $_OR_                           1
+     $_XNOR_                         5
+     $_XOR_                          2
+
